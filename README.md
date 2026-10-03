@@ -1,2 +1,12 @@
 # Coding Café
-Lab work for the Coding Café class.
+
+Lab work for Coding Café, FM102.
+
+**Name:** Kinshuk Boora
+**Roll number:** U20260123
+
+## Contents
+- `lab1/` — terminal
+- `lab2/` — variables, types, operations, I/O
+- `lab3/` — conditionals and loops
+- `lab4/` — git and github
